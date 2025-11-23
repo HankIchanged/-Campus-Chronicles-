@@ -1,0 +1,12 @@
+{
+  "model": "gpt-3.5-turbo",
+  "static_dir": [
+    "static"
+  ],
+  "state_dir": [
+    "state"
+  ],
+  "output_dir": [
+    "runs"
+  ]
+}
